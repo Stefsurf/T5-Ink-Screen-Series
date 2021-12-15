@@ -4,7 +4,7 @@
 */
 
 // According to the board, cancel the corresponding macro definition
-// #define LILYGO_T5_V213
+#define LILYGO_T5_V213
 // #define LILYGO_T5_V22
 // #define LILYGO_T5_V24
 // #define LILYGO_T5_V28
@@ -50,7 +50,7 @@
 // #include <GxGDEH0213B72/GxGDEH0213B72.h>  // 2.13" b/w old panel
 // #include <GxGDEH0213B73/GxGDEH0213B73.h>  // 2.13" b/w old panel
 
-// #include <GxDEPG0213BN/GxDEPG0213BN.h>    // 2.13" b/w  form DKE GROUP
+#include <GxDEPG0213BN/GxDEPG0213BN.h>    // 2.13" b/w  form DKE GROUP
 
 // #include <GxGDEM0213B74/GxGDEM0213B74.h>  // 2.13" b/w  form GoodDisplay 4-color
 
